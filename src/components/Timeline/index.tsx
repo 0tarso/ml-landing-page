@@ -22,8 +22,6 @@ const TimeLine = () => {
     { title: 'Primeira Corrida - 5km', locale: 'Sobradinho, Rio Grande do Sul', description: 'A corrida não era apenas uma prova de velocidade, mas de determinação e superação pessoal. Ao cruzar a linha de chegada, senti uma onda de realização e orgulho que jamais esquecerei.', date: '2022', icon: <FaRunning /> },
     { title: 'Primeiro Pódio - 5km', locale: 'Santa Cruz do Sul, Rio Grande do Sul', description: 'Subir ao pódio pela primeira vez foi um momento indescritível. A sensação de ver todo o esforço recompensado trouxe uma alegria imensa e a certeza de que estava no caminho certo.', date: '2023', icon: <FaRankingStar /> },
     { title: 'Meia Maratona', locale: 'Santa Cruz do Sul, Rio Grande do Sul', description: 'Correr uma meia maratona foi como embarcar em uma montanha-russa de emoções. E ao cruzar a linha de chegada, foi como se eu tivesse conquistado o mundo!', date: '2023', icon: <FaRoad /> },
-    { title: 'Meia Maratona', locale: 'Santa Cruz do Sul, Rio Grande do Sul', description: 'Correr uma meia maratona foi como embarcar em uma montanha-russa de emoções. E ao cruzar a linha de chegada, foi como se eu tivesse conquistado o mundo!', date: '2023', icon: <FaRoad /> },
-    { title: 'Meia Maratona', locale: 'Santa Cruz do Sul, Rio Grande do Sul', description: 'Correr uma meia maratona foi como embarcar em uma montanha-russa de emoções. E ao cruzar a linha de chegada, foi como se eu tivesse conquistado o mundo!', date: '2023', icon: <FaRoad /> },
   ]
 
 

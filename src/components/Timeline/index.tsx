@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'motion/react'
 
-//@ts-expect-error: Typesript não encontra o módulo
+//@ts-expect-error: Typescript não encontra o módulo
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 

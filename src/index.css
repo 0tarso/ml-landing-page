@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #202020;
+}
+
+#root {
+  background-color: #202020;
+  scroll-behavior: smooth;
+
+}
